@@ -1,6 +1,6 @@
 # Body Mass Index from Face Images
  
-# BMI Prediction using Face Images
+
 
 ## Overview
 
