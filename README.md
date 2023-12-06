@@ -44,7 +44,8 @@ Ensure you have the following Python libraries installed:
 
 
 
-![UI2](https://github.com/AshutoshPTech/Body-Mass-Index-from-Face-Images/assets/128606760/1d3c32c8-b621-491d-bf2b-5b26ee373392)
+![UI1](https://github.com/AshutoshPTech/Body-Mass-Index-from-Face-Images/assets/137297269/7b1a5ec6-f80b-4835-8449-4e2e0658aa2b)
+
 
 
 
